@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Inukurthi Sri Venkata Sai Guru</h1>
+
+<p align="center">
+  <img src="./Digitalrain-ezgif.com-gif-maker.gif" width="600" alt="Digital Rain Coding"/>
+</p>
+
 <h3 align="center">Just a student who is interested in software and Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiguruinukurthi&label=Profile%20views&color=0e75b6&style=flat" alt="saiguruinukurthi" /> </p>
