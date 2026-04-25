@@ -62,11 +62,9 @@ Platform project with scalable web architecture and modern development stack.
 
 ---
 
-## GitHub Stats
+## Languages Used
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiGuruInukurthi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiGuruInukurthi&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiGuruInukurthi&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=8)
 
 ---
 
