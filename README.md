@@ -1,56 +1,93 @@
-<h1 align="center">Hi 👋, I'm Inukurthi Sri Venkata Sai Guru</h1>
+# Sri Venkata Sai Guru Inukurthi
 
-<p align="center">
-  <img src="./Digitalrain-ezgif.com-gif-maker.gif" width="600" alt="Digital Rain Coding"/>
-</p>
+AI/ML Developer | Full Stack Builder | Problem Solver
 
-<h3 align="center">Just a student who is interested in software and Machine Learning</h3>
+I build practical projects using Machine Learning, Web Development, Computer Vision, and Automation.  
+Focused on creating useful systems, learning by building, and solving real problems through code.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiguruinukurthi&label=Profile%20views&color=0e75b6&style=flat" alt="saiguruinukurthi" /> </p>
+---
 
-- 🌱 I'm currently learning **Python, AIML, DSA, OOP's, Web development, Docker**
+## About Me
 
-- 💬 Ask me about **AIML, Current technologies, Cloud computing**
+- Building AI-powered and real-world software projects
+- Interested in Machine Learning, Deep Learning, RL, and Full Stack Development
+- Experience with Computer Vision, NLP, GIS, and Web Apps
+- Always learning and improving through hands-on development
+- Open to collaboration on impactful projects
 
-- 📫 How to reach me **srivenkatasaiguru@gmail.com**
+---
 
-- ⚡ Fun fact **I like to learn about new facts and want to expand my knowledge base**
+## Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:srivenkatasaiguru@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-</p>
+### Languages
+Python • JavaScript • SQL • HTML • CSS
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p>
+### Frameworks & Libraries
+TensorFlow • PyTorch • Scikit-learn • OpenCV • React • Node.js • Streamlit • Flask
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiguruinukurthi&show_icons=true&locale=en&layout=compact" alt="saiguruinukurthi" /></p>
+### Tools
+Git • GitHub • Jupyter Notebook • VS Code • Anaconda • Linux • Firebase
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiguruinukurthi&show_icons=true&locale=en" alt="saiguruinukurthi" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiguruinukurthi&" alt="saiguruinukurthi" /></p>
+## Featured Projects
+
+### Pallet Extractor & Gradient Generator
+Generate color palettes and gradients from images with an interactive interface.  
+🔗 https://github.com/SaiGuruInukurthi/Pallet-extractor-Gradient-generator
+
+### Two Truths and a Lie
+Interactive web-based social game built with frontend logic and clean UI.  
+🔗 https://github.com/SaiGuruInukurthi/Two-Truths-and-a-lie
+
+### Web UI Detection
+Computer Vision project for detecting website UI elements using deep learning.  
+🔗 https://github.com/SaiGuruInukurthi/WebUIDetection
+
+### DINO Game RL Trial
+Reinforcement Learning experiment to train an agent for the Chrome Dino game.  
+🔗 https://github.com/SaiGuruInukurthi/DINO-game-RL-trial-
+
+### Plagiarism Detection
+NLP-based project for identifying text similarity and plagiarism.  
+🔗 https://github.com/SaiGuruInukurthi/Plagiarism-detection
+
+### BGIS Project
+GIS + Data-driven academic project using spatial analysis concepts.  
+🔗 https://github.com/SaiGuruInukurthi/BGIS_Project
+
+### Techscapades Platform
+Platform project with scalable web architecture and modern development stack.  
+🔗 https://github.com/SaiGuruInukurthi/Techscapades-Platform
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiGuruInukurthi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiGuruInukurthi&layout=compact&theme=tokyonight)
+
+---
+
+## Current Focus
+
+- Advanced Machine Learning Projects
+- Full Stack Development
+- Real-time AI Systems
+- Open Source Contributions
+- Building Portfolio-worthy Products
+
+---
+
+## Connect With Me
+
+- Email: srivenkatasaiguru@gmail.com
+- LinkedIn: https://www.linkedin.com/in/inukurthisaiguru/
+- GitHub: https://github.com/SaiGuruInukurthi
+
+---
+
+## Profile Views
+
+![](https://komarev.com/ghpvc/?username=SaiGuruInukurthi&label=Profile%20Views)
