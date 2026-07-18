@@ -1,7 +1,7 @@
 <h1 align="center">Sai Guru Inukurthi</h1>
 
 <p align="center">
-  <strong>Full-Stack & ML Engineer</strong> · Building resilient AI tools & scalable platforms
+  <strong>Full-Stack and ML Engineer</strong> · Building resilient AI tools & scalable platforms
 </p>
 
 <p align="center">
